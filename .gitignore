@@ -1,0 +1,15 @@
+# Dependency directory
+node_modules
+
+# Local variables
+.env
+.env-*
+
+# build directory
+build
+
+package-lock.json
+
+artifacts
+cache
+typechain
